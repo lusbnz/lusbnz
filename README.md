@@ -16,6 +16,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lusbnz&show=discussions_started&show_icons=true&locale=en&theme=tokyonight" alt="lusbnz" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lusbnz&" alt="lusbnz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lusbnz&" alt="lusbnz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz&" alt="lusbnz" /></p>
