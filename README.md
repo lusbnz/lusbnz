@@ -7,6 +7,11 @@
 <a href="https://www.threads.net/@lusbnz_" target="_blank">Threads</a>  
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lusbnz/count.svg" />
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact" alt="lusbnz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&locale=en" alt="lusbnz" /></p>
