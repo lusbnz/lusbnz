@@ -12,8 +12,10 @@
   <img src="https://profile-counter.glitch.me/lusbnz/count.svg" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact" alt="lusbnz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en" alt="lusbnz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lusbnz&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&locale=en" alt="lusbnz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lusbnz&show=discussions_started&show_icons=true&locale=en&theme=tokyonight" alt="lusbnz" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lusbnz&" alt="lusbnz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz&" alt="lusbnz" /></p>
