@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lusbnz</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Lover+of+Clean+Code+%26+UI;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=I+talk+to+CSS...+and+sometimes+it+listens.;I+use+console.log+as+a+compass.;Ctrl+Z+is+my+best+friend." />
 </h3>
 
 ---
