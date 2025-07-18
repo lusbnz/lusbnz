@@ -62,12 +62,3 @@
 </p>
 
 ---
-
-### 🧠 Always Learning
-
-- 🔭 I’m currently working on: **Design systems + performance**
-- 🌱 I’m learning: **Animation, Web Accessibility (a11y)**
-- 🤝 I’m open to: **Collaboration on modern UI projects**
-- 💬 Ask me about: **React, TypeScript, or Tailwind**
-
----
