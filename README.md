@@ -37,15 +37,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&locale=en&theme=solarized-light" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz&theme=solarized-light" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -58,5 +58,5 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lusbnz&theme=solarized-light" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lusbnz" alt="Wakatime Stats" />
 </p>
