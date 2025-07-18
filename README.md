@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lusbnz</h1>
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=I+talk+to+CSS...+and+sometimes+it+listens.;I+use+console.log+as+a+compass.;Ctrl+Z+is+my+best+friend." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=I+talk+to+CSS...+and+sometimes+it+listens.;I+use+console.log+as+a+compass.;Ctrl+Z+is+my+best+friend." />
 </h3>
 
 ---
@@ -37,15 +37,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&locale=en&theme=solarized-light" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact&theme=solarized-light" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz&theme=solarized-light" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -58,7 +58,5 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@lusbnz&theme=tokyonight" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lusbnz&theme=solarized-light" alt="Wakatime Stats" />
 </p>
-
----
