@@ -1,23 +1,17 @@
-# .github/workflows/waka-readme.yml
-name: Update WakaTime Stats
+name: Waka Readme
 
 on:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 12 * * *' # chạy mỗi ngày lúc 12:00 UTC
-  workflow_dispatch: # cho phép trigger thủ công
+    - cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
       - uses: athul/waka-readme@master
         with:
+          LANG_COUNT: 10
+          TIME_RANGE: last_30_days
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 6
-          SHOW_TOTAL: true
