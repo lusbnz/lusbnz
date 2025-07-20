@@ -47,14 +47,10 @@
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz" alt="GitHub Streak" />
     </td>
-     <td colspan="2" align="center">
-       [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lusbnz&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-      </td>
-     <td colspan="2" align="center">
-      [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lusbnz&theme=gruvbox&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-    </td>
   </tr>
 </table>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lusbnz&theme=gruvbox&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
