@@ -41,14 +41,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lusbnz" alt="GitHub Streak" />
-    </td>
-  </tr>
 </table>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lusbnz&theme=gruvbox&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
