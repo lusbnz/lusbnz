@@ -27,29 +27,3 @@
   <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&locale=en" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusbnz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
-### ⌚ Weekly Coding Time
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lusbnz" alt="Wakatime Stats" />
-</p>
