@@ -27,3 +27,11 @@
   <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
+
+### 📊 Coding Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@Lusbnz">
+    <img src="https://wakatime.com/share/@Lusbnz/@lusbnz.svg" alt="WakaTime Stats" />
+  </a>
+</p>
