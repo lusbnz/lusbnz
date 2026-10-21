@@ -31,5 +31,5 @@
 ### 📊 Coding Activity
 
 <p align="center">
-  <figure><embed src="https://wakatime.com/share/@lusbnz/65ca772c-796d-4eef-a310-f4dab9499432.svg"></embed></figure>
+  <img src="https://wakatime.com/share/@lusbnz/65ca772c-796d-4eef-a310-f4dab9499432.svg" />
 </p>
