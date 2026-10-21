@@ -1,7 +1,6 @@
 <!-- ===== HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I%27m%20Lusbnz&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header" />
-</p>
+<h1 align="center">Hi 👋, I'm Lusbnz</h1>
+<p align="center"><b>Frontend & Mobile Developer</b> · Hanoi, Vietnam 🇻🇳</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -27,45 +26,46 @@
 const lusbnz = {
   role: "Frontend & Mobile Developer",
   location: "Hanoi, Vietnam 🇻🇳",
-  focus: ["Clean architecture", "Delightful UI", "Performance"],
+  focus: ["Clean architecture", "Minimal & accessible UI", "Performance"],
   currentlyLearning: "Swift & native iOS",
-  philosophy: "Less, but better.",
+  philosophy: [
+    "Clean code is a form of kindness.",
+    "The best feature is the one you delete.",
+  ],
 };
 ```
 
 ---
 
 ### 🛠️ Tech Stack
-
+ 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,swift,tailwind,nodejs,git,figma,vscode&perline=9" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,swift,tailwind,nodejs,&perline=6" alt="Tech stack" />
   </a>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
-
+ 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusbnz&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lusbnz&show_icons=true&bg_color=ffffff&title_color=09090b&text_color=52525b&icon_color=18181b&border_color=e4e4e7&ring_color=18181b&border_radius=10&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusbnz&layout=compact&bg_color=ffffff&title_color=09090b&text_color=52525b&icon_color=18181b&border_color=e4e4e7&ring_color=18181b&border_radius=10&langs_count=6" alt="Top languages" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lusbnz&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=lusbnz&background=ffffff&border=e4e4e7&stroke=e4e4e7&ring=18181b&fire=18181b&currStreakNum=09090b&sideNums=09090b&currStreakLabel=18181b&sideLabels=52525b&dates=a1a1aa&border_radius=10" alt="GitHub streak" />
 </p>
 
 ---
 
 ### ⏱️ Coding Activity
-
+ 
 <p align="center">
   <img src="https://wakatime.com/badge/user/aef4fcdd-4bad-4dd3-a4fd-607e6b03c903.svg?style=flat-square" alt="WakaTime" />
 </p>
-
 <p align="center">
-  <img src="https://wakatime.com/share/@lusbnz/65ca772c-796d-4eef-a310-f4dab9499432.svg" alt="WakaTime chart" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=lusbnz&layout=compact&langs_count=8&hide=other,image%20(svg),json,markdown,text&custom_title=Coding%20Activity%20(WakaTime)&bg_color=ffffff&title_color=09090b&text_color=52525b&icon_color=18181b&border_color=e4e4e7&border_radius=10" alt="WakaTime stats" />
 </p>
 
 ---
@@ -73,8 +73,4 @@ const lusbnz = {
 <!-- ===== FOOTER ===== -->
 <p align="center">
   <i>“Simplicity is the soul of efficiency.”</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
 </p>
