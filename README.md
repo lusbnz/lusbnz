@@ -31,7 +31,5 @@
 ### 📊 Coding Activity
 
 <p align="center">
-  <a href="https://wakatime.com/@Lusbnz">
-    <img src="https://wakatime.com/badge/user/aef4fcdd-4bad-4dd3-a4fd-607e6b03c903.svg" alt="" />
-  </a>
+  <img src="https://wakatime.com/badge/user/aef4fcdd-4bad-4dd3-a4fd-607e6b03c903/project/a6dc1457-7099-443b-bfa8-18f401638461.svg" />
 </p>
